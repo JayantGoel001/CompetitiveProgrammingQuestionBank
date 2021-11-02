@@ -6,7 +6,7 @@ This repository contains all the popular Competitive Programming questions and I
  [![Watchers](https://img.shields.io/github/watchers/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
  ![Lines of code](https://img.shields.io/tokei/lines/github/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
  <br><br>
-![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/smv1999/CompetitiveProgrammingQuestionBank/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![CompetitiveProgrammingQuestionBank](https://raw.githubusercontent.com/smv1999/CompetitiveProgrammingQuestionBank/master/images/cpqb.jpg)
 
 
 ## 📝Popular Questions:
@@ -47,7 +47,7 @@ This repository contains all the popular Competitive Programming questions and I
 
   </details>
 
-## Want to Contribute to this repository?
+## 💥 How to Contribute?
 Head over to [Contributing Guidelines](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/blob/master/CONTRIBUTING.md) to know more!
 
 ## Project Admin
@@ -58,21 +58,13 @@ Head over to [Contributing Guidelines](https://github.com/smv1999/CompetitivePro
 
 *Need help? Feel free to contact me @ vaidhyanathan.sm@gmail.com*
 
-## Contributors ✨
-
-Thanks goes to these **Wonderful People** 👨🏻‍💻:       
-
-<a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=smv1999/CompetitiveProgrammingQuestionBank" />
-</a>
-
-🚀 **Contributions** of any kind is welcome!
-
 ## Programs 
 <img src="https://raw.githubusercontent.com/smv1999/CompetitiveProgrammingQuestionBank/master/images/devincept.gif" alt="DevIncept" />
 
 <p>DevIncept is a 30 day open source program helping the student community learn and contribute in various open source projects under the guidance of skilled mentors and project admins.</p>
 
+## ✨ Acknowledgement
+Thanks to all the [contributors](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/blob/master/CONTRIBUTORS.md) for all their contributions.
 
 ## Stargazers Over Time 
 
